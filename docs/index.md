@@ -4,10 +4,10 @@ For full list of projects and repositories      visit: [My Github Profile](https
 
 ## My Social Media Links 
 
-* -[LinkedIn](https://www.linkedin.com/in/anjali-kolambkar-322018262)
-* -[Facebook](https://www.facebook.com/anjali.kolambkar.1)
-* -[Instagram](https://www.instagram.com/__anjali.k____)
-* -[Youtube](https://www.youtube.com/@MysticCodeCraft)
+* [LinkedIn](https://www.linkedin.com/in/anjali-kolambkar-322018262)
+* [Facebook](https://www.facebook.com/anjali.kolambkar.1)
+* [Instagram](https://www.instagram.com/__anjali.k____)
+* [Youtube](https://www.youtube.com/@MysticCodeCraft)
 
 ## Project layout
 
